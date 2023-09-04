@@ -1,8 +1,9 @@
 # HELLO
 
-Welcome to World Weaver Labs github. Nothing much to see right now. Please come back later :)
-<!--
+Welcome to World Weaver Labs Git Hub.
 
+This is a project to create the next great tool for Wolrd Makers. Including useful UI dynamic pricing and strategic plugins.
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
